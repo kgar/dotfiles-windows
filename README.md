@@ -13,8 +13,8 @@ Hello, I made a public repo for my dotfiles and Windows setup. If I'm being hone
 ⬜ Choco install script for Visual Studio  
 ⬜ Choco install script for Windows Terminal  
 ⬜ Choco install script for Node / npm  
-⬜ Choco install script for .NET Core / .NET latest
-⬜ Script for installing favorite dotnet tools
+⬜ Choco install script for .NET Core / .NET latest  
+⬜ Script for installing favorite dotnet tools  
 ⬜ Choco install script for Git  
-⬜ ...
+⬜ ...  
 ⬜ Create install script for new machine setup and roll everything up in it
