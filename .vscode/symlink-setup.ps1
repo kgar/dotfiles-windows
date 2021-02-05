@@ -1,0 +1,1 @@
+cmd /c mklink /H $env:USERPROFILE\AppData\Roaming\Code\User\settings.json "C:\dotfiles-windows\.vscode\settings.json"
