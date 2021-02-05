@@ -2,7 +2,7 @@
 
 Hello, I made a public repo for my dotfiles and Windows setup. If I'm being honest, this is a case where I'm starting this repo in hopes of coalescing my scattered configs and installs into some coherent, deployable dev environment. For a while, it's probably going to be pretty sparse...  
 
-Update 1: I'm becoming increasingly interested in this after looking at some other setups out there. I'm not too particular about aliases and stuff for my terminals, but I do have software and command line tools that I always need on a new install. So, I'm back in the repo coalescing my various disparate dev machines' settings and symlinking the repo files to their respective
+Update 1: I'm becoming increasingly interested in this after looking at some other setups out there. I'm not too particular about aliases and stuff for my terminals, but I do have software and command line tools that I always need on a new install. So, I'm back in the repo coalescing my various disparate dev machines' settings and symlinking the repo files to their respective places on the target machine.
 
 # To Do
 
