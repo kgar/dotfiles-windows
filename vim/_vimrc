@@ -1,0 +1,4 @@
+" Prevent incremental backups and swapfiles from spawning all over the place.
+set nobackup
+
+
