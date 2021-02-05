@@ -7,7 +7,7 @@ Update 1: I'm becoming increasingly interested in this after looking at some oth
 # To Do
 
 ⬜ Backup any Git dotfiles that I frequently use (include noreply Git email) and make symlink script  
-⬜ Figure out how to run a scheduled task 6 times a day to pull latest on the dotfiles-windows repo in C:
+⬜ Figure out how to run a scheduled task 6 times a day to pull latest on the dotfiles-windows repo in C:  
 ⬜ Create a script that sets up the scheduled task during install.ps1 🔥🔥🔥  
 ⬜ Coalesce vs code settings from my work machine to the repo  
 ⬜ Set up work machine to get in on the setting sync  
